@@ -12,5 +12,6 @@ systemctl restart chronyd
 
 systemctl status chronyd
 
+chronyc sources
 
 echo "this script created by eka because he has not have activities or gabut"
